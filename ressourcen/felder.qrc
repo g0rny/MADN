@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/felder">
+        <file>../grafiken/felder/kreisblau.svg</file>
+        <file>../grafiken/felder/kreisgelb.svg</file>
+        <file>../grafiken/felder/kreisgrun.svg</file>
+        <file>../grafiken/felder/kreisrot.svg</file>
+        <file>../grafiken/felder/kreisweiss.svg</file>
+    </qresource>
+</RCC>

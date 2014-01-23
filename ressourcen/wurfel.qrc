@@ -1,0 +1,39 @@
+<RCC>
+  <qresource prefix="wurfel">
+    <file>../grafiken/wurfel/blau.svg</file>
+    <file>../grafiken/wurfel/gelb.svg</file>
+    <file>../grafiken/wurfel/grun.svg</file>
+    <file>../grafiken/wurfel/rot.svg</file>
+    <file>../grafiken/wurfel/wurfel0.svg</file>
+    <file>../grafiken/wurfel/blau1.svg</file>
+    <file>../grafiken/wurfel/blau2.svg</file>
+    <file>../grafiken/wurfel/blau3.svg</file>
+    <file>../grafiken/wurfel/blau4.svg</file>
+    <file>../grafiken/wurfel/blau5.svg</file>
+    <file>../grafiken/wurfel/blau6.svg</file>
+    <file>../grafiken/wurfel/gelb1.svg</file>
+    <file>../grafiken/wurfel/gelb2.svg</file>
+    <file>../grafiken/wurfel/gelb3.svg</file>
+    <file>../grafiken/wurfel/gelb4.svg</file>
+    <file>../grafiken/wurfel/gelb5.svg</file>
+    <file>../grafiken/wurfel/gelb6.svg</file>
+    <file>../grafiken/wurfel/grun1.svg</file>
+    <file>../grafiken/wurfel/grun2.svg</file>
+    <file>../grafiken/wurfel/grun3.svg</file>
+    <file>../grafiken/wurfel/grun4.svg</file>
+    <file>../grafiken/wurfel/grun5.svg</file>
+    <file>../grafiken/wurfel/grun6.svg</file>
+    <file>../grafiken/wurfel/rot1.svg</file>
+    <file>../grafiken/wurfel/rot2.svg</file>
+    <file>../grafiken/wurfel/rot3.svg</file>
+    <file>../grafiken/wurfel/rot4.svg</file>
+    <file>../grafiken/wurfel/rot5.svg</file>
+    <file>../grafiken/wurfel/rot6.svg</file>
+    <file>../grafiken/wurfel/wurfel1.svg</file>
+    <file>../grafiken/wurfel/wurfel2.svg</file>
+    <file>../grafiken/wurfel/wurfel3.svg</file>
+    <file>../grafiken/wurfel/wurfel4.svg</file>
+    <file>../grafiken/wurfel/wurfel5.svg</file>
+    <file>../grafiken/wurfel/wurfel6.svg</file>
+  </qresource>
+</RCC>

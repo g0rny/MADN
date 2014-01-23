@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="/figuren">
+    <file>../grafiken/figuren/schneemannblau.svg</file>
+    <file>../grafiken/figuren/schneemanngelb.svg</file>
+    <file>../grafiken/figuren/schneemanngrun.svg</file>
+    <file>../grafiken/figuren/schneemannrot.svg</file>
+    <file>../grafiken/figuren/kugelblau.svg</file>
+    <file>../grafiken/figuren/kugelgelb.svg</file>
+    <file>../grafiken/figuren/kugelgrun.svg</file>
+    <file>../grafiken/figuren/kugelrot.svg</file>
+    <file>../grafiken/figuren/blau.svg</file>
+    <file>../grafiken/figuren/gelb.svg</file>
+    <file>../grafiken/figuren/grun.svg</file>
+    <file>../grafiken/figuren/rot.svg</file>
+  </qresource>
+</RCC>
